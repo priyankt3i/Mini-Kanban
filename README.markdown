@@ -1,8 +1,12 @@
 # Mini-Kanban
 
-Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management. Built with a modern tech stack, it features a responsive React frontend with Material-UI components and a Node.js/Express backend, deployed serverlessly on Vercel. The application showcases a peach and tea-inspired theme with glowing circles and interactive charts, delivering a "beautiful, mindblowing, loving, sexy" user experience.
+Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management. Built with a modern tech stack, it features a responsive React frontend with Material-UI components and a Node.js/Express backend, deployed serverlessly on Vercel. The application showcases a peach and tea-inspired theme with glowing circles and interactive charts, delivering a better user experience.
 
 [Repository Link](https://github.com/AbdulAHAD968/Mini-Kanban)
+
+![Login Page](./github-readme-images/login-page.png)
+
+---
 
 ## Features
 
@@ -13,6 +17,8 @@ Mini-Kanban is a lightweight, visually appealing Kanban board application inspir
 - **Responsive Design**: Optimized for desktop and mobile devices using Material-UI’s responsive grid and components.
 - **Serverless Architecture**: Backend deployed as Vercel serverless functions for scalability and ease of maintenance.
 - **Toast Notifications**: Real-time feedback for user actions using `react-toastify`.
+
+---
 
 ## Tech Stack
 
@@ -28,6 +34,8 @@ Mini-Kanban is a lightweight, visually appealing Kanban board application inspir
   - (Optional) MongoDB Atlas or Vercel Postgres for data storage
 - **Deployment**: Vercel for serverless functions (backend) and static hosting (frontend)
 - **Testing**: Jest and React Testing Library for unit, integration, and system tests
+
+---
 
 ## Project Structure
 
@@ -51,6 +59,8 @@ Mini-Kanban/
 │   └── .env                   # Environment variables (e.g., REACT_APP_API_URL)
 └── README.md                  # Project documentation
 ```
+
+---
 
 ## Setup Instructions
 
@@ -102,6 +112,8 @@ Mini-Kanban/
    - Start the frontend (e.g., `http://localhost:3000`).
    - Access the app at `http://localhost:3000`.
 
+---
+
 ## Deployment on Vercel
 
 ### Frontend
@@ -143,6 +155,8 @@ Mini-Kanban/
   app.use(cors({ origin: "https://mini-kanban-frontend.vercel.app" }));
   ```
 
+---
+
 ## Testing
 
 The project includes comprehensive testing to ensure reliability and functionality across unit, integration, and system levels.
@@ -166,11 +180,25 @@ The project includes comprehensive testing to ensure reliability and functionali
    ```
    Note: Ensure test scripts are defined in `package.json` for both directories.
 
+---
+
 ## Features Showcase
 
 - **Login Page**: Features a glowing circles animation with a peach/tea theme, a "Forgot Password" modal, and toast notifications for user feedback.
 - **Dashboard**: Displays boards as cards with uniform widths, interactive doughnut charts, and modals for creating/editing boards, styled in soft coral, muted tea green, and creamy peach.
 - **Responsive Design**: Adapts seamlessly to mobile and desktop devices with Material-UI’s grid system.
+
+![Dashboard View-1](./github-readme-images/dashboard-1.png)
+
+---
+
+![Dashboard View-2](./github-readme-images/dashboard-2.png)
+
+---
+
+![Detailed Board View](./github-readme-images/boardview.png)
+
+---
 
 ## Contributing
 
@@ -181,10 +209,15 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
 ## Contact
 
-For support or inquiries, contact the admin at [zarin.helpdesk@gmail.com](mailto:zarin.helpdesk@gmail.com).
+For support or inquiries, contact the admin at [ahad06074@gmail.com](mailto:ahad06074k@gmail.com).
