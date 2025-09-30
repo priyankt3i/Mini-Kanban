@@ -375,10 +375,10 @@ export default function Login() {
           >
             Please contact the admin at{" "}
             <a
-              href="mailto:zarin.helpdesk@gmail.com"
+              href="mailto:kpriyank88@gmail.com"
               style={{ color: "#f7b7a3", textDecoration: "none", fontWeight: "bold" }}
             >
-              zarin.helpdesk@gmail.com
+              zkpriyank88@gmail.com
             </a>{" "}
             to reset your password.
           </Typography>

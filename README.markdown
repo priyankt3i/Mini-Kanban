@@ -2,15 +2,12 @@
 
 Mini-Kanban is a lightweight, visually appealing Kanban board application inspired by Trello, designed for efficient project management. Built with a modern tech stack, it features a responsive React frontend with Material-UI components and a Node.js/Express backend, deployed serverlessly on Vercel. The application showcases a peach and tea-inspired theme with glowing circles and interactive charts, delivering a better user experience.
 
-[Repository Link](https://github.com/AbdulAHAD968/Mini-Kanban)
-
-![Login Page](./github-readme-images/login-page.png)
 
 ---
 
 ## Features
 
-- **User Authentication**: Secure login with username/password and a "Forgot Password" modal directing users to contact the admin (`zarin.helpdesk@gmail.com`).
+- **User Authentication**: Secure login with username/password and a "Forgot Password" modal directing users to contact the admin (`kpriyank88@gmail.com`).
 - **Board Management**: Create, edit, and delete Kanban boards with titles and descriptions.
 - **Visualizations**: Doughnut charts powered by Chart.js, displaying task statuses (To Do, In Progress, Done) with a peach/tea color palette.
 - **Dynamic UI**: Glowing circles background animation on the login page for an engaging experience.
